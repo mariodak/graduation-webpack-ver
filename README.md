@@ -23,6 +23,3 @@
 #### 3. Login (VSCODE)
 1. git config --global user.email ""
 2. git config --global user.name ""
-
-#### 4. Logout procedure
-- Control Panel > User Accounts and Family Safety > System Administrator 

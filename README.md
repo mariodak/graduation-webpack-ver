@@ -18,7 +18,10 @@
 3. install vscode
 
 #### 2. Install procedure (Console - cmd, node.js)
-1. npm i -g yarn (adding packages, globally)
+1. git clone <url>
+2. cd <name of git>
+3. npm i -g yarn (adding packages, globally)
+4. yarn (installs packages)
 
 #### 3. VSCODE, Atom,..
 1. SASS Support (If needed)

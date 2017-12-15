@@ -1,19 +1,28 @@
 # graduation
 Graduation Project
 
-- Login
-- Ovládací panel\Používateľské kontá a bezpečnosť rodiny\Správca poverení
+# Main Commands
+- yarn serve
+- yarn build
+##### Login
 1. git config --global user.email ""
 2. git config --global user.name ""
+##### Logout
+Control Panel > User Accounts and Family Safety > System Administrator 
 
-# Install procedure (WINDOWS)
+# - MAIN INSTALL PROCEDURES -
+## 1. Install procedure (WINDOWS)
 1. install git
 2. install node
 3. install vscode
 
-# Install procedure (VSCODE)
+## 2. Install procedure (VSCODE)
 1. npm i -g yarn
 2. yarn init
 
-1. yarn serve
-2. yarn build
+## 3. Login (VSCODE)
+1. git config --global user.email ""
+2. git config --global user.name ""
+
+## 4. Logout procedure
+- Control Panel > User Accounts and Family Safety > System Administrator 

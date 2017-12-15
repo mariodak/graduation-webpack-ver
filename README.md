@@ -20,6 +20,4 @@
 1. npm i -g yarn
 2. yarn init
 
-#### 3. Login (VSCODE)
-1. git config --global user.email ""
-2. git config --global user.name ""
+#### 3. Custom setting's edit

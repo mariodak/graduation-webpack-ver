@@ -16,8 +16,11 @@
 2. install node
 3. install vscode
 
-#### 2. Install procedure (VSCODE)
+#### 2. Install procedure (Console - cmd, node.js)
 1. npm i -g yarn
 2. yarn init
 
-#### 3. Custom setting's edit
+#### 3. VSCODE, Atom,..
+1. SASS Support (If needed)
+
+#### 4. Custom setting's edit
